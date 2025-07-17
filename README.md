@@ -33,3 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux width="70px" height="70px"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFedericoMarty
+&layout=compact 
+&theme=tokyonight)
