@@ -34,5 +34,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux width="70px" height="70px"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFedericoMarty&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFedericoMarty&layout=compact&theme=highcontrast&size_weight=0.3&count_weight=0.7)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucaFedericoMarty&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)
