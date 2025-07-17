@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h2 align="center">A passionate software engineer student from Argentina</h2> 
+<h2 align="center">A passionate software engineer student from Argentina </h2> 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="70px" height="70px"/>
@@ -12,9 +13,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="70px" height="70px"/>
+</p>
 
-<h3 align="left">Tools:</h3>
-
+<h3 align="left">Tools</h3>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="70px" height="70px"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="70px" height="70px"/>
@@ -29,4 +31,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql width="70px" height="70px"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="mysql width="70px" height="70px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux width="70px" height="70px"/>
+</p>
