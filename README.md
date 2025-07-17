@@ -35,4 +35,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFedericoMarty&layout=compact&theme=highcontrast)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucaFedericoMarty&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucaFedericoMarty&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)
