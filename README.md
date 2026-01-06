@@ -7,6 +7,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="70px" height="70px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="70px" height="70px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70px" height="70px"/>
