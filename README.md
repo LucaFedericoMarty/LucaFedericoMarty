@@ -10,8 +10,8 @@
 
 ### Frameworks & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,notion,git,docker,vscode,neovim,linux">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,flutter,maven,nodejs,postgres,mysql,tensorflow,unity,vue,vite">
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,notion,git,docker,vscode,neovim,vercel,linux">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,flutter,maven,nodejs,postgres,mysql,tensorflow,unity,vue,vuetify,vite">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFedericoMarty&layout=compact&theme=highcontrast&size_weight=0.3&count_weight=0.7)
